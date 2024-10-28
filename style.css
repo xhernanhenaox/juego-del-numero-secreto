@@ -178,6 +178,7 @@ button {
 
  .container__imagen-persona {
     width: 60%;
+    gap 20px;
  }
     
 
